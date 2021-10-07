@@ -29,4 +29,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcostmunhoz&show_icons=true&theme=dracula&locale=en&count_private=true&hide=stars,issues" alt="marcostmunhoz" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostmunhoz&show_icons=true&theme=dracula&locale=en&layout=compact&hide=java&langs_count=6" alt="marcostmunhoz" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostmunhoz&show_icons=true&theme=dracula&locale=en&layout=compact&hide=java&langs_count=6&card_width=250" alt="marcostmunhoz" /></p>
