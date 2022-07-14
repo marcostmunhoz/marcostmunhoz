@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A backend developer, passionate about (and somehow enthusiast for) programming and technology.</h3>
 
-- 🌱 I’m currently learning **NodeJS, Typescript and automated tests**
+- 🌱 I’m currently learning **PHP automated tests (precisely, using [Pest test framework](https://github.com/pestphp/pest))**
 - 😄 Pronouns: he/him
 
 <h3 align="left">Connect with me:</h3>
