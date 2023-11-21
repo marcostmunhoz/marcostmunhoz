@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Marcos</h1>
 <h3 align="center">A backend developer, passionate about (and somehow enthusiast for) programming and technology.</h3>
 
-- 🌱 I’m currently learning **PHP automated tests (precisely, using [Pest test framework](https://github.com/pestphp/pest))**
-- 😄 Pronouns: he/him
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/marcostmunhoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcostmunhoz" height="30" width="40" /></a>
@@ -26,7 +23,3 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
     <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=marcostmunhoz&show_icons=true&theme=dracula&locale=en&count_private=true&hide=stars,issues" alt="marcostmunhoz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=marcostmunhoz&show_icons=true&theme=dracula&locale=en&layout=compact&hide=java&langs_count=6&card_width=250" alt="marcostmunhoz" /></p>
